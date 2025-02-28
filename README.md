@@ -1,14 +1,14 @@
-# Desafio Tech Lead: Dashboard de Conversão
+# Desafio Tech Lead: Evolução Temporal de taxa de conversão
 
 ## Objetivo
-O objetivo deste desafio é criar um **dashboard** que exibe a **evolução temporal da taxa de conversão** por canal (Email, WhatsApp, Push Notifications, etc.) a partir de um banco de dados com milhões de registros. O maior desafio é otimizar a consulta de dados para garantir que o tempo de resposta da aplicação seja o mais rápido possível.
+O objetivo deste desafio é criar uma rota que exibe a **evolução temporal da taxa de conversão** por canal (Email, WhatsApp, Push Notifications, etc.) a partir de um banco de dados com milhões de registros. O maior desafio é otimizar a consulta de dados para garantir que o tempo de resposta da aplicação seja o mais rápido possível.
 
 ### Tecnologias permitidas
 
-- **Backend**: Node.js, Python ou Golang
-- **Banco de Dados**: PostgreSQL
-- **Contêinerização**: Docker
-
+- **Backend**: Node.js, Python ou Golang.
+- **Frontend**: React.
+- **Banco de Dados**: PostgreSQL.
+- **Contêinerização**: Docker.
 
 ## Requisitos Obrigatórios
 
@@ -21,7 +21,7 @@ O objetivo deste desafio é criar um **dashboard** que exibe a **evolução temp
 
 ## Requisitos Adicionais
 
-- **Front-end do Dashboard**: Implementar o front-end do dashboard.
+- **Front-end**: Implementar dashboard dos dados retornados.
   
 - **Testes Automatizados**: Criar testes automatizados para garantir a qualidade e confiabilidade do código.
   
@@ -33,7 +33,7 @@ O objetivo deste desafio é criar um **dashboard** que exibe a **evolução temp
 #### 1. Detalhamento de Status.
 Segue lista de status para identificação nos dados disponibilizados.
 
-- 1 - Valido
+- 1 - Válido
 - 2 - Inválido
 - 3 - Incompleto
 - 4 - Pendente
