@@ -1,7 +1,7 @@
 # Desafio Tech Lead: Evolução Temporal de taxa de conversão
 
 ## Objetivo
-O objetivo deste desafio é criar uma rota que exibe a **evolução temporal da taxa de conversão** por canal (Email, WhatsApp, Push Notifications, etc.) a partir de um banco de dados com milhões de registros. O maior desafio é otimizar a consulta de dados para garantir que o tempo de resposta da aplicação seja o mais rápido possível.
+Será disponibilizado um [link](https://drive.google.com/drive/folders/1r7sn8MuBoBJRGB_DBtiJQsa9ydTKrvXx?usp=sharing) de arquivo .sql contendo milhões de registros sobre envios de canais (e-mail, WhatsApp, push notifications, etc). O objetivo deste desafio é desenvolver uma rota que mostre a **evolução temporal da taxa de conversão** por canal. O principal desafio é otimizar a consulta aos dados, garantindo um tempo de resposta rápido e eficiente para a aplicação, mesmo com o grande volume de informações.
 
 ### Tecnologias permitidas
 
@@ -27,8 +27,10 @@ O objetivo deste desafio é criar uma rota que exibe a **evolução temporal da 
   
 - **Filtros Adicionais**: Permitir que o usuário aplique filtros adicionais no dashboard.
 
+## Entrega
+- Disponibilize o código em um repositório público no GitHub e nos envie o link.
 
-### Considerações Importantes
+## Considerações importantes
 
 #### 1. Detalhamento de Status.
 Segue lista de status para identificação nos dados disponibilizados.
@@ -39,3 +41,6 @@ Segue lista de status para identificação nos dados disponibilizados.
 - 4 - Pendente
 - 5 - Aberto
 - 6 - Visualizou
+
+#### 2. Link do arquivo
+Clique [aqui](https://drive.google.com/drive/folders/1r7sn8MuBoBJRGB_DBtiJQsa9ydTKrvXx?usp=sharing) para acessar o arquivo .sql
