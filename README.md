@@ -9,7 +9,7 @@ Será disponibilizado um [link](https://drive.google.com/drive/folders/1r7sn8MuB
 - **Backend**: Node.js, Python ou Golang.
 - **Frontend**: React.
 - **Banco de Dados**: PostgreSQL.
-- **Contêinerização**: Docker.
+- **Conteinerização**: Docker.
 
 ## Requisitos Obrigatórios
 
