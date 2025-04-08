@@ -30,6 +30,7 @@ Será disponibilizado um [link](https://drive.google.com/drive/folders/1r7sn8MuB
 
 ## Entrega
 - Disponibilize o código em um repositório público no GitHub e nos envie o link.
+- Faça o deploy da aplicação e nos envie o link do projeto hospedado.
 
 ## Considerações importantes
 
