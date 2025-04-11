@@ -6,7 +6,7 @@ Será disponibilizado um [link](https://drive.google.com/drive/folders/1r7sn8MuB
 
 ### Tecnologias permitidas
 
-- **Backend**: Node.js, Python ou Golang.
+- **Backend**: Node.js, Golang.
 - **Frontend**: React.
 - **Banco de Dados**: PostgreSQL.
 - **Conteinerização**: Docker.
